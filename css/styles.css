@@ -1,0 +1,149 @@
+#title{
+  background-color: #ff4c68
+}
+h1{
+  font-family:"Montserrat";
+  color: white;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  padding-bottom: 15px;
+}
+h3{
+  font-family: "Montserrat";
+}
+.container-fluid{
+  padding: 3% 15% 7%;
+}
+.head{
+    font-size: 3rem;
+}
+.navbar-brand{
+    font-size: 2.5rem;
+    font-family: "Ubuntu";
+    font-weight: bold;
+
+}
+
+.navbar-brand{
+  line-height: 3;
+}
+.nav-item{
+  font-size: 1.5rem;
+  padding: 0 18px;
+
+}
+
+#rotate{
+  transform: rotate(25deg);
+  width: 18%;
+  position: absolute;
+  margin-left: 5%;
+}
+
+.body{
+  font-family:"Montserrat", sans-serif;
+}
+
+
+#features{
+  text-align: center;
+  padding: 7% 14%;
+  background-color: #fff;
+   position: relative;
+}
+.img{
+  font-size: 3rem;
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+.col-lg-4{
+  padding: 50px 50px;
+}
+.img:hover{
+  color: #ff4c68;
+}
+#testimonials{
+
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+
+ h2{
+  font-family: "Montserrat";
+  line-height: 1.5;
+  font-size: 3rem;
+}
+.circle{
+ border-radius: 100%;
+ width: 20%;
+ margin: 20px;
+}
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%
+}
+.logo{
+  width: 15%;
+  padding: 15px;
+  margin-bottom: 15px;
+}
+.carousel-inner{
+  padding: 7% 15%;
+}
+#deck{
+  color: black;
+  padding: 3% 2%;
+}
+.rj{
+  width: 100%;
+}
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+.card{
+  text-align: center;
+}
+@media (max-width:1000px) {
+  .mobile{
+    text-align: center;
+  }
+  #rotate{
+    position: static;
+    width: 50%;
+      transform: rotate(0deg);
+    margin-left: 0%;
+    padding-top: 7%;
+  }
+}
+#cta{
+  background-color: #ff4c68;
+text-align: center;
+  padding: 10% 0;
+}
+.pad{
+  margin: 8px;
+}
+.white{
+  color: #fff;
+  font-family: "Montserrat";
+  font-size: 3rem;
+  width:60%;
+  margin: auto;
+   line-height: 1.5;
+   padding-bottom: 3%;
+
+}
+#footer{
+  text-align: center;
+  padding: 5%;
+}
+.social{
+  margin: 8px;
+  padding-bottom: 10px;
+}
+.sab{
+  margin-right: 15px;
+}
